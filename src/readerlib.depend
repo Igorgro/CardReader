@@ -1,0 +1,1419 @@
+# depslib dependency file v1.0
+1518974067 source:x:\cpp\windows\reader_lib\card.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	"Card.h"
+
+1518974059 x:\cpp\windows\reader_lib\card.h
+	<string>
+
+1517857141 source:x:\cpp\windows\reader_lib\card_handler.cpp
+	"card_handler.h"
+
+1517860496 x:\cpp\windows\reader_lib\card_handler.h
+	"card.h"
+
+1517860886 source:x:\cpp\windows\reader_lib\card_reader.cpp
+	"card.h"
+	"card_reader.h"
+	<iostream>
+
+1517857568 x:\cpp\windows\reader_lib\card_reader.h
+	<thread>
+	"card.h"
+	"card_handler.h"
+	"windows.h"
+
+1517945895 source:x:\cpp\windows\reader_lib\cardhandler.cpp
+	"CardHandler.h"
+
+1518028824 x:\cpp\windows\reader_lib\cardhandler.h
+	"card.h"
+
+1518289261 source:x:\cpp\windows\reader_lib\cardreader.cpp
+	"card.h"
+	"CardReader.h"
+	<iostream>
+
+1518289226 x:\cpp\windows\reader_lib\cardreader.h
+	<thread>
+	"card.h"
+	"CardHandler.h"
+	"windows.h"
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\iostream
+	<istream>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\istream
+	<ostream>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\ostream
+	<ios>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\ios
+	<xlocnum>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\xlocnum
+	<climits>
+	<cmath>
+	<cstdio>
+	<cstdlib>
+	<streambuf>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\climits
+	<yvals.h>
+	<limits.h>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\yvals.h
+	<xkeycheck.h>
+	<crtdefs.h>
+	<use_ansi.h>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\xkeycheck.h
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\crtdefs.h
+	<vcruntime.h>
+	<corecrt.h>
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime.h
+	<sal.h>
+	<vadefs.h>
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\sal.h
+	"codeanalysis\sourceannotations.h"
+	<ConcurrencySal.h>
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\codeanalysis\sourceannotations.h
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\concurrencysal.h
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\vadefs.h
+
+1506606988 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt.h
+	<vcruntime.h>
+	<winapifamily.h>
+
+1506606982 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winapifamily.h
+	<winpackagefamily.h>
+
+1506606982 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winpackagefamily.h
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\use_ansi.h
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\limits.h
+	<vcruntime.h>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath
+	<yvals.h>
+	<math.h>
+	<math.h>
+	<xtgmath.h>
+	<xtgmath.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\math.h
+	<corecrt_math.h>
+	<corecrt_math_defines.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_math.h
+	<corecrt.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_math_defines.h
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtgmath.h
+	<xtr1common>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtr1common
+	<cstdlib>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\cstdlib
+	<yvals.h>
+	<stdlib.h>
+	<stdlib.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h
+	<corecrt.h>
+	<corecrt_malloc.h>
+	<corecrt_search.h>
+	<corecrt_wstdlib.h>
+	<limits.h>
+
+1506606988 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_malloc.h
+	<corecrt.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_search.h
+	<corecrt.h>
+	<stddef.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stddef.h
+	<corecrt.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wstdlib.h
+	<corecrt.h>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\cstdio
+	<yvals.h>
+	<stdio.h>
+	<stdio.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h
+	<corecrt.h>
+	<corecrt_wstdio.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wstdio.h
+	<corecrt.h>
+	<corecrt_stdio_config.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_stdio_config.h
+	<corecrt.h>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\streambuf
+	<xiosbase>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\xiosbase
+	<xlocale>
+	<system_error>
+	<share.h>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\xlocale
+	<climits>
+	<cstring>
+	<stdexcept>
+	<typeinfo>
+	<xlocinfo>
+	<xfacet>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\cstring
+	<yvals.h>
+	<string.h>
+	<string.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h
+	<corecrt.h>
+	<corecrt_memory.h>
+	<corecrt_wstring.h>
+	<vcruntime_string.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_memory.h
+	<corecrt.h>
+	<corecrt_memcpy_s.h>
+	<vcruntime_string.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_memcpy_s.h
+	<corecrt.h>
+	<errno.h>
+	<vcruntime_string.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\errno.h
+	<corecrt.h>
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_string.h
+	<vcruntime.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wstring.h
+	<corecrt.h>
+	<vcruntime_string.h>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdexcept
+	<exception>
+	<xstring>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\exception
+	<type_traits>
+	<malloc.h>
+	<vcruntime_exception.h>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\type_traits
+	<xstddef>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstddef
+	<cstddef>
+	<cstdlib>
+	<initializer_list>
+	<xtr1common>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\cstddef
+	<yvals.h>
+	<stddef.h>
+	<stddef.h>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\initializer_list
+	<cstddef>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\malloc.h
+	<corecrt.h>
+	<corecrt_malloc.h>
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_exception.h
+	<eh.h>
+	<vcruntime_new.h>
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\eh.h
+	<corecrt_terminate.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_terminate.h
+	<corecrt.h>
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_new.h
+	<vcruntime.h>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring
+	<xmemory0>
+
+1465409564 c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0
+	<cstdint>
+	<cstdlib>
+	<limits>
+	<new>
+	<xutility>
+	<xatomic0.h>
+	<intrin.h>
+	<xatomic.h>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\cstdint
+	<yvals.h>
+	<stdint.h>
+	<stdint.h>
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h
+	<vcruntime.h>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\limits
+	<ymath.h>
+	<cfloat>
+	<climits>
+	<cmath>
+	<cwchar>
+	<xstddef>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\ymath.h
+	<yvals.h>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\cfloat
+	<yvals.h>
+	<float.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\float.h
+	<corecrt.h>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\cwchar
+	<yvals.h>
+	<wchar.h>
+	<wchar.h>
+
+1506606992 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\wchar.h
+	<corecrt.h>
+	<corecrt_memcpy_s.h>
+	<corecrt_wconio.h>
+	<corecrt_wctype.h>
+	<corecrt_wdirect.h>
+	<corecrt_wio.h>
+	<corecrt_wprocess.h>
+	<corecrt_wstdio.h>
+	<corecrt_wstdlib.h>
+	<corecrt_wstring.h>
+	<corecrt_wtime.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<vcruntime_string.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wconio.h
+	<corecrt.h>
+	<corecrt_stdio_config.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wctype.h
+	<corecrt.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wdirect.h
+	<corecrt.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wio.h
+	<corecrt.h>
+	<corecrt_share.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_share.h
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h
+	<corecrt.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wtime.h
+	<corecrt.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\sys\stat.h
+	<corecrt.h>
+	<sys/types.h>
+
+1506606992 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\sys\types.h
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\new
+	<exception>
+	<vcruntime_new.h>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility
+	<climits>
+	<cstdlib>
+	<utility>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\utility
+	<xstddef>
+	<iosfwd>
+	<type_traits>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\iosfwd
+	<cstdio>
+	<cstring>
+	<cwchar>
+	<xstddef>
+	<crtdbg.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\crtdbg.h
+	<corecrt.h>
+	<vcruntime_new_debug.h>
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_new_debug.h
+	<vcruntime_new.h>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\xatomic0.h
+	<yvals.h>
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\intrin.h
+	<vcruntime.h>
+	<setjmp.h>
+	<immintrin.h>
+	<ammintrin.h>
+	<mm3dnow.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\setjmp.h
+	<vcruntime.h>
+	<setjmpex.h>
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\setjmpex.h
+	<setjmp.h>
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\immintrin.h
+	<wmmintrin.h>
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\wmmintrin.h
+	<nmmintrin.h>
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\nmmintrin.h
+	<smmintrin.h>
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\smmintrin.h
+	<tmmintrin.h>
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\tmmintrin.h
+	<pmmintrin.h>
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\pmmintrin.h
+	<emmintrin.h>
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\emmintrin.h
+	<xmmintrin.h>
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmmintrin.h
+	<mmintrin.h>
+	"xmm_func.h"
+	<malloc.h>
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\mmintrin.h
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\ammintrin.h
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\mm3dnow.h
+	<vcruntime.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\armintr.h
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\arm_neon.h
+	<stdint.h>
+	<sal.h>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\xatomic.h
+	<xatomic0.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<intrin.h>
+	<xutility>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\typeinfo
+	<xstddef>
+	<exception>
+	<vcruntime_typeinfo.h>
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_typeinfo.h
+	<vcruntime.h>
+	<vcruntime_exception.h>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\xlocinfo
+	<xlocinfo.h>
+	<cstdlib>
+	<xstddef>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\xlocinfo.h
+	<ctype.h>
+	<locale.h>
+	<wchar.h>
+	<yvals.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\ctype.h
+	<corecrt.h>
+	<corecrt_wctype.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\locale.h
+	<corecrt.h>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\xfacet
+	<yvals.h>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\system_error
+	<cerrno>
+	<cstdlib>
+	<stdexcept>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\cerrno
+	<yvals.h>
+	<errno.h>
+	<errno.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\share.h
+	<corecrt_share.h>
+
+1506607378 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\windows.h
+	<winapifamily.h>
+	<sdkddkver.h>
+	<winresrc.h>
+	<excpt.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<wincon.h>
+	<winver.h>
+	<winreg.h>
+	<winnetwk.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<winsock.h>
+	<wincrypt.h>
+	<winefs.h>
+	<winscard.h>
+	<winspool.h>
+	<ole.h>
+	<ole2.h>
+	<commdlg.h>
+	<stralign.h>
+	<winwlm.h>
+	<ole2.h>
+	<winsvc.h>
+	<mcx.h>
+	<imm.h>
+
+1506607344 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\sdkddkver.h
+
+1506607378 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winresrc.h
+	<winuser.rh>
+	<commctrl.rh>
+	<dde.rh>
+	<winnt.rh>
+	<dlgs.h>
+	<winver.h>
+
+1506607378 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.rh
+
+1506607362 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\commctrl.rh
+
+1506607376 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\dde.rh
+
+1506607158 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.rh
+
+1506607366 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\dlgs.h
+	<winapifamily.h>
+
+1506607362 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winver.h
+	<winapifamily.h>
+	<SpecStrings.h>
+	<verrsrc.h>
+
+1506607154 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\specstrings.h
+	<sal.h>
+	<specstrings_strict.h>
+	<driverspecs.h>
+	<no_sal2.h>
+
+1506607154 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\specstrings_strict.h
+	<specstrings_undef.h>
+
+1506607154 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\specstrings_undef.h
+
+1506607146 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\driverspecs.h
+	<specstrings.h>
+	"sdv_driverspecs.h"
+	<concurrencysal.h>
+
+1506607146 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\sdv_driverspecs.h
+
+1506606982 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\no_sal2.h
+
+1506607158 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\verrsrc.h
+	<winapifamily.h>
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\excpt.h
+	<vcruntime.h>
+
+1464775606 c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h
+	<vcruntime.h>
+
+1506607378 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\windef.h
+	<winapifamily.h>
+	<minwindef.h>
+	<winnt.h>
+
+1506607150 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\minwindef.h
+	<specstrings.h>
+	<winapifamily.h>
+	<winnt.h>
+
+1506607158 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.h
+	<ctype.h>
+	<winapifamily.h>
+	<specstrings.h>
+	<kernelspecs.h>
+	<basetsd.h>
+	<guiddef.h>
+	<excpt.h>
+	<sdkddkver.h>
+	<intrin.h>
+	<intrin.h>
+	<intrin.h>
+	"pshpack4.h"
+	"poppack.h"
+	"pshpack4.h"
+	"poppack.h"
+	<pshpack4.h>
+	<poppack.h>
+	"pshpack4.h"
+	"pshpack2.h"
+	"pshpack1.h"
+	"poppack.h"
+	"pshpack2.h"
+	<pshpack2.h>
+	<poppack.h>
+	"poppack.h"
+	"pshpack8.h"
+	"poppack.h"
+	"pshpack1.h"
+	"poppack.h"
+	"pshpack1.h"
+	"poppack.h"
+	"poppack.h"
+	<apiset.h>
+	<string.h>
+	<string.h>
+	<specstrings.h>
+	<ktmtypes.h>
+
+1506607148 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\kernelspecs.h
+	"DriverSpecs.h"
+
+1506607146 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\basetsd.h
+
+1506607148 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\guiddef.h
+	<string.h>
+
+1506607154 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack4.h
+
+1506607154 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+
+1506607154 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack2.h
+
+1506607154 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack1.h
+
+1506607154 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack8.h
+
+1506606974 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\apiset.h
+
+1506607344 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\ktmtypes.h
+
+1506607160 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h
+	<winapifamily.h>
+	<macwin32.h>
+	<apisetcconv.h>
+	<minwinbase.h>
+	<processenv.h>
+	<fileapi.h>
+	<debugapi.h>
+	<utilapiset.h>
+	<handleapi.h>
+	<errhandlingapi.h>
+	<fibersapi.h>
+	<namedpipeapi.h>
+	<profileapi.h>
+	<heapapi.h>
+	<ioapiset.h>
+	<synchapi.h>
+	<interlockedapi.h>
+	<processthreadsapi.h>
+	<sysinfoapi.h>
+	<memoryapi.h>
+	<enclaveapi.h>
+	<threadpoollegacyapiset.h>
+	<threadpoolapiset.h>
+	<jobapi.h>
+	<jobapi2.h>
+	<wow64apiset.h>
+	<libloaderapi.h>
+	<securitybaseapi.h>
+	<namespaceapi.h>
+	<systemtopologyapi.h>
+	<processtopologyapi.h>
+	<securityappcontainer.h>
+	<realtimeapiset.h>
+	<winerror.h>
+	<timezoneapi.h>
+	"winbase.inl"
+
+1506607144 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\apisetcconv.h
+
+1506607148 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\minwinbase.h
+
+1506607046 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\processenv.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+
+1506607050 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\fileapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1506607048 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\debugapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1506607042 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\utilapiset.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+
+1506607048 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\handleapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+
+1506607058 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\errhandlingapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+
+1506607060 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\fibersapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+
+1506607046 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\namedpipeapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1506607046 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\profileapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+
+1506607048 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\heapapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1506607050 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\ioapiset.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1506607060 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\synchapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1506607050 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\interlockedapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+
+1506607046 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\processthreadsapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1506607044 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\sysinfoapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1506607048 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\memoryapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1506607052 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\enclaveapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1506607042 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\threadpoollegacyapiset.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1506607056 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\threadpoolapiset.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1506607054 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\jobapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1506607030 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\jobapi2.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1506607042 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\wow64apiset.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1506607048 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\libloaderapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1506607046 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\securitybaseapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1506607038 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\namespaceapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1506607032 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\systemtopologyapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1506607030 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\processtopologyapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1506607052 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\securityappcontainer.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1506607044 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\realtimeapiset.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+
+1506607158 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h
+	<specstrings.h>
+
+1506607042 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\timezoneapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1506607160 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.inl
+
+1506607378 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\wingdi.h
+	<winapifamily.h>
+	<macwin32.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack2.h>
+	<poppack.h>
+	<pshpack2.h>
+	<poppack.h>
+	<pshpack4.h>
+	<poppack.h>
+	<pshpack4.h>
+	<poppack.h>
+	"pshpack4.h"
+	"poppack.h"
+
+1506607378 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h
+	<winapifamily.h>
+	<macwin32.h>
+	<stdarg.h>
+	<libloaderapi.h>
+	<pshpack2.h>
+	<poppack.h>
+	<tvout.h>
+	"winuser.inl"
+
+1506606982 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\tvout.h
+	<winapifamily.h>
+	<guiddef.h>
+
+1506607378 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.inl
+
+1506607160 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnls.h
+	<winapifamily.h>
+	<datetimeapi.h>
+	<libloaderapi.h>
+	<macwin32.h>
+	<stringapiset.h>
+
+1506607052 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\datetimeapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1506607044 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\stringapiset.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<winnls.h>
+
+1506607378 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\wincon.h
+	<winapifamily.h>
+	<wingdi.h>
+	<consoleapi.h>
+
+1506607050 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\consoleapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<windows.h>
+
+1506607048 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winreg.h
+	<winapifamily.h>
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+	<macwin32.h>
+	<reason.h>
+
+1506607376 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\reason.h
+	<winapifamily.h>
+
+1506606984 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnetwk.h
+	<winapifamily.h>
+	<wnnc.h>
+
+1506606976 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\wnnc.h
+	<winapifamily.h>
+
+1506607366 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\cderr.h
+
+1506607376 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\dde.h
+	<windef.h>
+	<winapifamily.h>
+
+1506607378 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\ddeml.h
+	<winapifamily.h>
+
+1506607346 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\lzexpand.h
+	<winapifamily.h>
+
+1506606982 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\mmsystem.h
+	<winapifamily.h>
+	<mmsyscom.h>
+	<pshpack1.h>
+	<mciapi.h>
+	<mmiscapi.h>
+	<mmiscapi2.h>
+	<playsoundapi.h>
+	<mmeapi.h>
+	<timeapi.h>
+	<joystickapi.h>
+	<poppack.h>
+
+1506606982 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\mmsyscom.h
+	<winapifamily.h>
+	<pshpack1.h>
+	<macwin32.h>
+	<poppack.h>
+
+1506607034 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\mciapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<mmsyscom.h>
+
+1506607018 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\mmiscapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<mmsyscom.h>
+
+1506607000 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\mmiscapi2.h
+	<apiset.h>
+	<apisetcconv.h>
+	<mmsyscom.h>
+
+1506607028 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\playsoundapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<mmsyscom.h>
+
+1506607010 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\mmeapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<mmsyscom.h>
+
+1506606990 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\timeapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<mmsyscom.h>
+
+1506607024 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\joystickapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<mmsyscom.h>
+
+1506607290 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\nb30.h
+	<winapifamily.h>
+
+1506606976 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\rpc.h
+	<windows.h>
+	<pshpack2.h>
+	<basetsd.h>
+	<pshpack8.h>
+	<setjmp.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcerr.h>
+	<rpcmac.h>
+	<poppack.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<excpt.h>
+	<winerror.h>
+	<rpcasync.h>
+	<poppack.h>
+
+1506606976 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\rpcdce.h
+	<winapifamily.h>
+	<specstrings.h>
+	<guiddef.h>
+	<rpcdcep.h>
+
+1506606976 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\rpcdcep.h
+	<winapifamily.h>
+
+1506606984 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\rpcnsi.h
+	<winapifamily.h>
+
+1506606976 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\rpcnterr.h
+	<winapifamily.h>
+
+1506606976 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\rpcasync.h
+	<winapifamily.h>
+	<pshpack8.h>
+	<ntddk.h>
+	<windef.h>
+	<poppack.h>
+
+1506607592 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h
+	<winapifamily.h>
+	<SpecStrings.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1506607158 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winperf.h
+	<winapifamily.h>
+	<pshpack8.h>
+	<poppack.h>
+
+1506607292 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsock.h
+	<winapifamily.h>
+	<windows.h>
+	<inaddr.h>
+
+1506607290 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\inaddr.h
+
+1506606982 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\wincrypt.h
+	<specstrings.h>
+	<winapifamily.h>
+	<bcrypt.h>
+	<ncrypt.h>
+	<dpapi.h>
+
+1506606978 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\bcrypt.h
+	<winapifamily.h>
+
+1506607236 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\ncrypt.h
+	<winapifamily.h>
+	<bcrypt.h>
+
+1506606978 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\dpapi.h
+
+1506607238 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winefs.h
+	<winapifamily.h>
+
+1506606982 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winscard.h
+	<wtypes.h>
+	<winioctl.h>
+	"winsmcrd.h"
+	"SCardErr.h"
+	<winapifamily.h>
+
+1506607404 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\wtypes.h
+	"rpc.h"
+	"rpcndr.h"
+	"wtypesbase.h"
+
+1506606976 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\rpcndr.h
+	<winapifamily.h>
+	<pshpack8.h>
+	<basetsd.h>
+	<rpcnsip.h>
+	<rpcsal.h>
+	<poppack.h>
+
+1506606984 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\rpcnsip.h
+	<winapifamily.h>
+
+1506606976 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\rpcsal.h
+	<specstrings.h>
+
+1506607404 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\wtypesbase.h
+	"rpc.h"
+	"rpcndr.h"
+	"basetsd.h"
+	"guiddef.h"
+
+1506607288 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h
+	<pshpack1.h>
+	<poppack.h>
+	<winapifamily.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1506606982 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winsmcrd.h
+
+1506606982 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\scarderr.h
+
+1506606984 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winspool.h
+	<winapifamily.h>
+	<prsht.h>
+
+1506607362 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\prsht.h
+	<winapifamily.h>
+	<pshpack8.h>
+	<pshpack4.h>
+	"prsht.inl"
+	<poppack.h>
+
+1506607362 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\prsht.inl
+
+1506606982 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\ole.h
+	<winapifamily.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1506606984 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\ole2.h
+	<winapifamily.h>
+	<pshpack8.h>
+	<winerror.h>
+	<objbase.h>
+	<oleauto.h>
+	<coml2api.h>
+	<oleidl.h>
+	<poppack.h>
+
+1506606984 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\objbase.h
+	<winapifamily.h>
+	<rpc.h>
+	<rpcndr.h>
+	<pshpack8.h>
+	<combaseapi.h>
+	<coml2api.h>
+	<objidl.h>
+	<urlmon.h>
+	<propidl.h>
+	<poppack.h>
+
+1506607046 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\combaseapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<rpc.h>
+	<rpcndr.h>
+	<pshpack8.h>
+	<stdlib.h>
+	<wtypesbase.h>
+	<unknwnbase.h>
+	<objidlbase.h>
+	<guiddef.h>
+	<cguid.h>
+	<poppack.h>
+
+1506607404 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\unknwnbase.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"wtypesbase.h"
+	<winapifamily.h>
+
+1506607404 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\objidlbase.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"unknwnbase.h"
+	<winapifamily.h>
+	<limits.h>
+
+1506606984 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\cguid.h
+	<winapifamily.h>
+
+1506607028 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\coml2api.h
+	<apiset.h>
+	<apisetcconv.h>
+	<combaseapi.h>
+	<objidl.h>
+	<propidlbase.h>
+
+1506607404 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\objidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"unknwn.h"
+	<winapifamily.h>
+	<winapifamily.h>
+	<limits.h>
+
+1506607404 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\unknwn.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"wtypes.h"
+	<winapifamily.h>
+
+1506607404 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\propidlbase.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+	"oaidl.h"
+	<winapifamily.h>
+
+1506607404 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\oaidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+	<winapifamily.h>
+
+1506607328 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\urlmon.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+	"oleidl.h"
+	"servprov.h"
+	"msxml.h"
+	<winapifamily.h>
+
+1506607404 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\oleidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+	<winapifamily.h>
+
+1506607328 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\servprov.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+	<winapifamily.h>
+
+1506607336 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\msxml.h
+	"rpc.h"
+	"rpcndr.h"
+	"unknwn.h"
+	"objidl.h"
+	"oaidl.h"
+	<winapifamily.h>
+
+1506607404 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\propidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+	"oaidl.h"
+	<winapifamily.h>
+	<coml2api.h>
+
+1506606984 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\oleauto.h
+	<winapifamily.h>
+	<pshpack8.h>
+	<oaidl.h>
+	<poppack.h>
+
+1506607362 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\commdlg.h
+	<winapifamily.h>
+	<prsht.h>
+	<pshpack1.h>
+	"commdlg.inl"
+	<poppack.h>
+
+1506607362 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\commdlg.inl
+
+1506607344 c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\stralign.h
+	<winapifamily.h>
+
+1506607160 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsvc.h
+	<winapifamily.h>
+
+1506606984 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\mcx.h
+
+1506607378 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\imm.h
+	<winapifamily.h>
+	<ime_cmodes.h>
+
+1506606974 c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\ime_cmodes.h
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\string
+	<istream>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\thread
+	<exception>
+	<iosfwd>
+	<functional>
+	<chrono>
+	<memory>
+	<tuple>
+	<thr/xthread>
+	<thr/xtimec.h>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\functional
+	<xfunctional>
+	<exception>
+	<typeinfo>
+	<tuple>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\xfunctional
+	<cstdlib>
+	<xstring>
+	<xstddef>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\tuple
+	<new>
+	<type_traits>
+	<xutility>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\chrono
+	<limits>
+	<ratio>
+	<utility>
+	<time.h>
+	<thr/xtimec.h>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\ratio
+	<stdint.h>
+	<type_traits>
+
+1506606992 c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h
+	<corecrt.h>
+	<corecrt_wtime.h>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\thr\xtimec.h
+	<thr/xthrcommon.h>
+	<time.h>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\thr\xthrcommon.h
+	<yvals.h>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\memory
+	<xmemory>
+	<exception>
+	<typeinfo>
+	<type_traits>
+
+1465409564 c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory
+	<xmemory0>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\thr\xthread
+	<thr/xthrcommon.h>
+	<thr/xtime>
+	<thr/xthreads.h>
+	<tuple>
+	<type_traits>
+	<utility>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\thr\xtime
+	<thr/xtimec.h>
+
+1464775604 c:\program files (x86)\microsoft visual studio 14.0\vc\include\thr\xthreads.h
+	<thr/xthrcommon.h>
+	<thr/xtimec.h>
+	<limits.h>
+
